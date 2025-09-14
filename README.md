@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @brucewpa
-- 👀 I’m interested in security information, linux, cloud, python, devops, web custom and nerd stuff
-- 🌱 I’m currently learning CTI, cloud, devops, web custom.
-- 💞️ I’m looking to collaborate on Python and data manipuation. 
+- 👋 Hi, I’m Bruce Percilio (@brucewpa) 
+- 🌱 I’m a PHD student at Polytechnic University of Madrid
+- 💞️ I’m looking to collaborate on IAM, Python, GO, OSINT, LSTM, LLM, statistics and data manipuation. 
 - 📫 How to reach me bruce.william92@gmail.com
 
 
