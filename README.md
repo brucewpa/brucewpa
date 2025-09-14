@@ -8,8 +8,10 @@
 Work History
 
 #####
-Company: Itaú Unibanco 
+Company: Itaú Unibanco
+
 Position: CyberSecurity Engineer
+
 Description:
 As a member of the security projects team, my responsibilities include:
 
