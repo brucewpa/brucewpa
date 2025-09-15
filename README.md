@@ -42,7 +42,7 @@ Projects/activities:
 
 #####
 Company: Grupo Boticário \
-Position: Cyber Security Specialist (consultant)\
+Position: Cyber Security Specialist (consultant) \
 
 Description:
 I worked as a consultant for a company within the Boticário group, where I was responsible for the following activities:
