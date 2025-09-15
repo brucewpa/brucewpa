@@ -40,11 +40,85 @@ Projects/activities:
 - Engagement in data engineering activities, focusing on the planning and implementation of ELT-related structures using Python with Apache Spark.
 - Integration of authentication for REST APIs through the AWS API Gateway, employing OpenID and OAuth with foundational protocols.
 
-Grupo Boticário
+#####
+Company: Grupo Boticário
+Position: Cyber Security Specialist (consultant)
 
-Riachuelo 
+Description:
+I worked as a consultant for a company within the Boticário group, where I was responsible for the following activities:
 
-Cognyte
+- Demonstrating tools such as PAM, DLP, CASB, SIEM, ZTNA, VPN, observability tools, and cloud solutions.
+- Utilizing SAST and DAST solutions to ensure an acceptable level of security in DEVOPS pipelines and the deployment of programs for clients, partners, and the company itself.
+
+Projects/activities:
+
+- Creation of alerts and appropriate visibility through Kibana, Elasticsearch, and Logstash for monitoring the resources used to establish VPNs between our infrastructure and partners.
+- Configuration of the VPN structure between AWS Firewall and customer FortiGate systems.
+- Presentation of the CASB (Cloud Access Security Broker) and DLP (Data Loss Prevention) solutions to customers.
+- Presentation of the PAM (Privileged Access Management) and ZTNA (Zero Trust Network Access) solutions to customers.
+- Sanitization of user, data and cloud costs across GCP (Google Cloud Platform), AWS (Amazon Web Services), and Azure.
+
+#####
+Company: Riachuelo 
+Position: CyberSecurity Analyst
+Description: 
+
+As a security analyst, I undertook the following activities:
+
+- Led the integration of observability and data protection solutions in cloud environments.
+- Headed the data exfiltration initiative, implementing, maintaining, and improving detection measures using DLP, CASB, and IAM tools in a hybrid environment with over 40,000 users.
+- Responsible for creating integrated visibility across PAM, CASB, DLP, and firewall solutions, as well as ensuring Active Directory protection.
+
+Projects/activities:
+
+- Ensuring adequate visibility to maintain traceability of activities conducted in PAM, Palo Alto Firewall, DLP, and McAfee CASB.
+- Serving as part of the incident response team, utilizing Splunk to support war rooms, assisting in problem identification, and generating reports on these activities.
+- Leading user activity investigations, responsible for creating reports that provide traceability of actions performed in Office 365, PAM, Slack, and various cloud tools integrated into the environment.
+- Sanitizing McAfee DLP rules to enhance user experience and improve monitoring. This initiative resulted in a 30% reduction in time spent investigating PII and PCI during file copying.
+- Led a team of four analysts in identifying potential data leaks, documenting findings, and collaborating with leadership and the legal team.
+- Worked with the Red Team on practical data exfiltration, which revealed gaps that were addressed in new versions of security protocols.
+- Monitored file transfers between cloud services using a Cloud Access Security Broker (CASB) to detect malware and data leaks.
+- Conducted user sanitization using Varonis, focusing on inactive accounts, those unused for three months, and accounts with outdated passwords, among other factors.
+- Integrated the Securiti.ai tool with our web and data structures to ensure compliance with LGPD standards.
+- Mapped database tables where cookies were stored to facilitate integration with the security tool and ensure availability for the marketing team.
+
+#####
+Company: Cognyte
+Position: Field Support Engineer (Consultant)
+Description:
+My primary activities included:
+-  The main stakeholder within customer organizations is responsible for maintaining relationships and seeking new opportunities.
+-  This role involves managing, customizing, and expanding solutions such as Threat Intelligence, Threat Hunting, OSINT, and tactical telecommunications solutions.
+-  Additionally, this individual is responsible for overseeing Proof of Concept (POC) environments, demonstrating products, and promoting technical training in Portuguese, Spanish, and English.
+  
+Projects/activities:
+- Conducted telecommunications training for the Brazilian Army.  
+- Provided product training for the Mexican government.  
+- Delivered OSINT training for five different clients.  
+- Delivered and configured 30 physical servers, switches, and firewalls as part of a comprehensive solution.  
+- Confirmed VPN and security infrastructure to support secure communications between clients.  
+- Initiated a private project aimed at enhancing customer experience by developing Python functionality to analyze tool usage data.  
+- Created documentation outlining the structures within customer data centers.  
+- Supported security forces in optimizing telecommunications structures and identifying the best locations for tactical operations.  
+
+#####
+Company: Avantsec
+Position:
+Description:
+My primary activities included: 
+- Pre-sales and post-sales engineer responsible for demonstrating, designing, installing, and maintaining security solutions such as SIEM, Firewall, PAM, APM, and Security Analytics.
+- Customizing dashboards with CSS, XML, HTML, and JavaScript, and creating integrations using Python, shell, and Perl.
+
+Projects/activities:
+- **Brazilian Central Bank:** Successfully installed, configured, and customized a Security Information and Event Management (SIEM) solution in a project that received internal recognition.
+
+- **Brazilian Army Cyber Defense Center:** Implemented and customized a SIEM solution that monitors web server availability, anticipating future outages, and provides visibility into firewalls, switches, and Active Directory (AD).
+
+- **ITAIPU:** Installed, configured, and customized a SIEM solution that features dashboards and visibility into firewall operations, antivirus systems, email management, switches, and compliance with the General Data Protection Law (LGPD).
+
+- **Ministry of Technology:** Installed, configured, and customized a Palo Alto Firewall and Splunk SIEM. This included changes to firewall protocols, rule customization, staff training, and creating visibility in Splunk for the firewall, antivirus, and switches, as well as training the Security Operations Center (SOC) on its use.
+
+
 <!---
 brucewpa/brucewpa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
