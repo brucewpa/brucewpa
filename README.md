@@ -41,8 +41,8 @@ Projects/activities:
 - Integration of authentication for REST APIs through the AWS API Gateway, employing OpenID and OAuth with foundational protocols.
 
 #####
-Company: Grupo Boticário
-Position: Cyber Security Specialist (consultant)
+Company: Grupo Boticário \
+Position: Cyber Security Specialist (consultant)\
 
 Description:
 I worked as a consultant for a company within the Boticário group, where I was responsible for the following activities:
@@ -59,8 +59,8 @@ Projects/activities:
 - Sanitization of user, data and cloud costs across GCP (Google Cloud Platform), AWS (Amazon Web Services), and Azure.
 
 #####
-Company: Riachuelo 
-Position: CyberSecurity Analyst
+Company: Riachuelo \
+Position: CyberSecurity Analyst \
 Description: 
 
 As a security analyst, I undertook the following activities:
@@ -83,8 +83,8 @@ Projects/activities:
 - Mapped database tables where cookies were stored to facilitate integration with the security tool and ensure availability for the marketing team.
 
 #####
-Company: Cognyte
-Position: Field Support Engineer (Consultant)
+Company: Cognyte \
+Position: Field Support Engineer (Consultant) \
 Description:
 My primary activities included:
 -  The main stakeholder within customer organizations is responsible for maintaining relationships and seeking new opportunities.
@@ -102,8 +102,8 @@ Projects/activities:
 - Supported security forces in optimizing telecommunications structures and identifying the best locations for tactical operations.  
 
 #####
-Company: Avantsec
-Position:
+Company: Avantsec \ 
+Position: Pre-sales engineer \
 Description:
 My primary activities included: 
 - Pre-sales and post-sales engineer responsible for demonstrating, designing, installing, and maintaining security solutions such as SIEM, Firewall, PAM, APM, and Security Analytics.
